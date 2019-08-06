@@ -30,3 +30,14 @@ If the optional u/s repo is not specified, the script will attempt
 to retrieve it from the rh-manifest file, if this fails, the repo will not
 be updated.
 
+Usage:
+```
+./rh-update-container-yaml.sh <branch>
+```
+
+for example:
+```
+./rh-update-container-yaml.sh origin/cnv-2.0-rhel-8
+```
+
+The user must be logged on to kinit.
