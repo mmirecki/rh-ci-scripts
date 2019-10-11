@@ -1,0 +1,113 @@
+ovs-cni-marker github.com/kubevirt/ovs-cni
+
+ovs-cni-plugin github.com/kubevirt/ovs-cni-plugin
+cluster-network-addons-operator github.com/kubevirt/cluster-network-addons-operator
+cnv-containernetworking-plugins
+
+bridge-marker                   bridge-marker                   master         github.com/kubevirt/bridge-marker
+kubemacpool                     kubemacpool                     cnv-2.0-rhel-8 github.com/K8sNetworkPlumbingWG/kubemacpool
+sriov-network-device-plugin     sriov-network-device-plugin     cnv-2.0-rhel-8 github.com/intel/sriov-network-device-plugin
+sriov-cni                       sriov-cni                       cnv-2.0-rhel-8 github.com/intel/sriov-cni
+ovs-cni-marker                  ovs-cni                         cnv-2.0-rhel-8 github.com/kubevirt/ovs-cni
+ovs-cni-plugin                  ovs-cni                         cnv-2.0-rhel-8 github.com/kubevirt/ovs-cni
+cluster-network-addons-operator cluster-network-addons-operator cnv-2.0-rhel-8 github.com/kubevirt/cluster-network-addons-operator
+
+
+
+
+bridge-marker                   bridge-marker                   master         github.com/kubevirt/bridge-marker
+kubemacpool                     kubemacpool                     cnv-2.0-rhel-8 github.com/K8sNetworkPlumbingWG/kubemacpool
+sriov-network-device-plugin     sriov-network-device-plugin     cnv-2.0-rhel-8 github.com/intel/sriov-network-device-plugin
+sriov-cni                       sriov-cni                       cnv-2.0-rhel-8 github.com/intel/sriov-cni
+ovs-cni-marker                  ovs-cni                         cnv-2.0-rhel-8 github.com/kubevirt/ovs-cni
+ovs-cni-plugin                  ovs-cni                         cnv-2.0-rhel-8 github.com/kubevirt/ovs-cni
+cluster-network-addons-operator cluster-network-addons-operator cnv-2.0-rhel-8 github.com/kubevirt/cluster-network-addons-operator
+
+
+
+
+
+
+http://pkgs.devel.redhat.com/cgit/containers/kubemacpool/refs/
+http://pkgs.devel.redhat.com/cgit/containers/sriov-network-device-plugin/refs/
+http://pkgs.devel.redhat.com/cgit/containers/sriov-cni/refs/
+http://pkgs.devel.redhat.com/cgit/containers/ovs-cni-marker/refs/
+http://pkgs.devel.redhat.com/cgit/containers/cluster-network-addons-operator/refs/
+http://pkgs.devel.redhat.com/cgit/containers/cnv-containernetworking-plugins/refs/
+
+
+
+
+bridge-marker                    github.com/kubevirt/bridge-marker
+kubemacpool                      github.com/K8sNetworkPlumbingWG/kubemacpool
+sriov-network-device-plugin      github.com/intel/sriov-network-device-plugin
+sriov-cni                        github.com/intel/sriov-cni
+ovs-cni-marker                   github.com/kubevirt/ovs-cni
+ovs-cni-plugin                   github.com/kubevirt/ovs-cni
+cluster-network-addons-operator  github.com/kubevirt/cluster-network-addons-operator
+
+
+bridge-marker                    github.com/kubevirt/bridge-marker
+kubemacpool                      github.com/K8sNetworkPlumbingWG/kubemacpool
+sriov-network-device-plugin      github.com/intel/sriov-network-device-plugin
+sriov-cni                        github.com/intel/sriov-cni
+ovs-cni-marker                   github.com/kubevirt/ovs-cni
+ovs-cni-plugin                   github.com/kubevirt/ovs-cni
+cluster-network-addons-operator  github.com/kubevirt/cluster-network-addons-operator
+
+bridge-marker                    github.com/kubevirt/bridge-marker
+kubemacpool                      github.com/K8sNetworkPlumbingWG/kubemacpool
+sriov-network-device-plugin      github.com/intel/sriov-network-device-plugin
+sriov-cni                        github.com/intel/sriov-cni
+ovs-cni-marker                   github.com/kubevirt/ovs-cni
+ovs-cni-plugin                   github.com/kubevirt/ovs-cni
+cluster-network-addons-operator  github.com/kubevirt/cluster-network-addons-operator
+cni-default-plugins              github.com/containernetworking/plugins
+
+
+https://github.com/kubevirt/web-ui-operator
+
+
+virt-launcher                        github.com/kubevirt/kubevirt
+
+
+cnv-containernetworking-plugins  https://github.com/containernetworking/plugins
+
+hco-bundle-registry  http://pkgs.devel.redhat.com/cgit/containers/hco-bundle-registry/tree/?h=cnv-2.0-rhel-8
+hyperconverged-cluster-operator   http://pkgs.devel.redhat.com/cgit/containers/hyperconverged-cluster-operator/tree/?h=cnv-2.0-rhel-8
+
+
+kubevirt-v2v-conversion
+kubevirt-vmware
+virtio-win
+
+kubevirt-web-ui-operator  https://github.com/kubevirt/web-ui-operator
+kubevirt-cpu-model-nfd-plugin  https://github.com/kubevirt/cpu-nfd-plugin
+kubevirt-cpu-node-labeller   https://github.com/kubevirt/node-labeller
+kubevirt-metrics-collector  https://github.com/fromanirh/kubevirt-metrics-collector
+kubevirt-ssp-operator   https://github.com/MarSik/kubevirt-ssp-operator
+kubevirt-template-validator https://github.com/fromanirh/kubevirt-template-validator
+
+
+No maniftest file generated for: kubevirt-web-ui-operator
+No maniftest file generated for: kubevirt-cpu-model-nfd-plugin
+
+
+
+cnv-containernetworking-plugins  https://github.com/containernetworking/plugins
+
+hco-bundle-registry  http://pkgs.devel.redhat.com/cgit/containers/hco-bundle-registry/tree/?h=cnv-2.0-rhel-8
+hyperconverged-cluster-operator   http://pkgs.devel.redhat.com/cgit/containers/hyperconverged-cluster-operator/tree/?h=cnv-2.0-rhel-8
+
+
+kubevirt-v2v-conversion   http://pkgs.devel.redhat.com/cgit/containers/kubevirt-v2v-conversion/tree/?h=cnv-2.0-rhel-8
+kubevirt-vmware   http://pkgs.devel.redhat.com/cgit/containers/kubevirt-vmware/tree/?h=cnv-2.0-rhel-8
+kubevirt-web-ui-operator   http://pkgs.devel.redhat.com/cgit/containers/kubevirt-web-ui-operator/tree/?h=cnv-2.0-rhel-8
+virtio-win   http://pkgs.devel.redhat.com/cgit/containers/virtio-win/tree/?h=cnv-2.0-rhel-8
+
+
+kubevirt-cpu-model-nfd-plugin  http://pkgs.devel.redhat.com/cgit/containers/kubevirt-cpu-model-nfd-plugin/tree/?h=cnv-2.0-rhel-8
+kubevirt-cpu-node-labeller     - sources http://pkgs.devel.redhat.com/cgit/containers/kubevirt-cpu-node-labeller/tree/?h=cnv-2.0-rhel-8
+kubevirt-metrics-collector    http://pkgs.devel.redhat.com/cgit/containers/kubevirt-metrics-collector/tree/?h=cnv-2.0-rhel-8
+kubevirt-ssp-operator        http://pkgs.devel.redhat.com/cgit/containers/kubevirt-ssp-operator/tree/?h=cnv-2.0-rhel-8
+kubevirt-template-validator   http://pkgs.devel.redhat.com/cgit/containers/kubevirt-template-validator/tree/?h=cnv-2.0-rhel-8

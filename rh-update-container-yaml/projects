@@ -1,4 +1,5 @@
-bridge-marker
-kubemacpool
-
-
+ember-csi https://github.com/embercsi/ember-csi
+ember-csi-operator  https://github.com/embercsi/ember-csi-operator
+hco-bundle-registry  https://github.com/kubevirt/hyperconverged-cluster-operator
+kubernetes-nmstate-handler https://github.com/nmstate/kubernetes-nmstate
+kubevirt-ssp-operator  https://github.com/MarSik/kubevirt-ssp-operator
